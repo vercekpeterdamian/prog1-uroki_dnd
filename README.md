@@ -15,4 +15,4 @@ Trenutno sem naredil le zahtevane `.csv` datoteke. Commit je pa žal le en, saj 
  - **verbal, somatic, material**: kaj okvirno potrebujemo za izvedbo uroka
  - **stopnja**: katere stopnje je urok. Št. 0 ustreza Cantripu.
 
-Ostale datoteke najdene v `podatki/` so bodisi `.json`, ki so verjetno nepotrebne, bodisi zgoraj omenjene.
+Ostale datoteke najdene v `podatki/` so bodisi `.json`, ki so verjetno nepotrebne, bodisi v seznamu omenjene.
