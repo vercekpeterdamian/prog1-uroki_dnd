@@ -23,540 +23,540 @@ lightning-lure,Lightning Lure,3,1,8,1,False,True,False,False,0
 mage-hand,Mage Hand,1,1,6,5,False,True,True,False,0
 magic-stone,Magic Stone,5,2,5,5,False,True,True,False,0
 mending,Mending,5,3,5,1,False,True,True,True,0
-message,Message,5,1,9,2,False,True,True,True,0
-mind-sliver,Mind Sliver,6,1,10,2,False,True,False,False,0
-minor-illusion,Minor Illusion,8,1,11,5,False,False,True,True,0
-mold-earth,Mold Earth,5,1,11,3,False,False,True,False,0
-on-off,On/Off,5,1,10,1,False,True,True,False,0
-poison-spray,Poison Spray,1,1,12,1,False,True,True,False,0
-prestidigitation,Prestidigitation,5,1,12,8,False,True,True,False,0
+message,Message,5,1,4,2,False,True,True,True,0
+mind-sliver,Mind Sliver,6,1,1,2,False,True,False,False,0
+minor-illusion,Minor Illusion,8,1,6,5,False,False,True,True,0
+mold-earth,Mold Earth,5,1,6,3,False,False,True,False,0
+on-off,On/Off,5,1,1,1,False,True,True,False,0
+poison-spray,Poison Spray,1,1,9,1,False,True,True,False,0
+prestidigitation,Prestidigitation,5,1,9,8,False,True,True,False,0
 primal-savagery,Primal Savagery,5,1,2,9,False,False,True,False,0
 produce-flame,Produce Flame,1,1,2,10,False,True,True,False,0
-ray-of-frost,Ray of Frost,3,1,10,1,False,True,True,False,0
+ray-of-frost,Ray of Frost,3,1,1,1,False,True,True,False,0
 resistance,Resistance,2,1,5,4,False,True,True,True,0
-sacred-flame,Sacred Flame,3,1,10,1,False,True,True,False,0
-sapping-sting,Sapping Sting,4,1,11,1,False,True,True,False,0
-shape-water,Shape Water,5,1,11,3,False,False,True,False,0
+sacred-flame,Sacred Flame,3,1,1,1,False,True,True,False,0
+sapping-sting,Sapping Sting,4,1,6,1,False,True,True,False,0
+shape-water,Shape Water,5,1,6,3,False,False,True,False,0
 shillelagh,Shillelagh,5,2,5,5,False,True,True,True,0
 shocking-grasp,Shocking Grasp,3,1,5,1,False,True,True,False,0
 spare-the-dying,Spare the Dying,4,1,5,1,False,True,True,False,0
 sword-burst,Sword Burst,1,1,3,1,False,True,False,False,0
-thaumaturgy,Thaumaturgy,5,1,11,11,False,True,False,False,0
-thorn-whip,Thorn Whip,5,1,11,1,False,True,True,True,0
+thaumaturgy,Thaumaturgy,5,1,6,11,False,True,False,False,0
+thorn-whip,Thorn Whip,5,1,6,1,False,True,True,True,0
 thunderclap,Thunderclap,3,1,3,1,False,False,True,False,0
-toll-the-dead,Toll the Dead,4,1,10,1,False,True,True,False,0
-true-strike,True Strike,7,1,11,12,False,False,True,False,0
-vicious-mockery,Vicious Mockery,6,1,10,1,False,True,False,False,0
+toll-the-dead,Toll the Dead,4,1,1,1,False,True,True,False,0
+true-strike,True Strike,7,1,6,12,False,False,True,False,0
+vicious-mockery,Vicious Mockery,6,1,1,1,False,True,False,False,0
 virtue,Virtue (UA),2,1,5,2,False,True,True,False,0
 word-of-radiance,Word of Radiance,3,1,7,1,False,True,False,True,0
 absorb-elements,Absorb Elements,2,4,2,2,False,False,True,False,1
-acid-stream,Acid Stream (UA),3,1,13,13,False,True,True,True,1
-alarm,Alarm,2,1,11,14,True,True,True,True,1
-animal-friendship,Animal Friendship,6,1,11,15,False,True,True,True,1
-arcane-weapon,Arcane Weapon (UA),5,2,2,16,False,True,True,False,1
-armor-of-agathys,Armor of Agathys,2,1,2,17,False,True,True,True,1
-arms-of-hadar,Arms of Hadar,1,1,14,1,False,True,True,False,1
-bane,Bane,6,1,11,13,False,True,True,True,1
-beast-bond,Beast Bond,7,1,5,13,False,True,True,True,1
-bless,Bless,6,1,11,13,False,True,True,True,1
-burning-hands,Burning Hands,3,1,15,1,False,True,True,False,1
-catapult,Catapult,5,1,10,1,False,False,True,False,1
-cause-fear,Cause Fear,4,1,10,13,False,True,True,False,1
+acid-stream,Acid Stream (UA),3,1,10,4,False,True,True,True,1
+alarm,Alarm,2,1,6,6,True,True,True,True,1
+animal-friendship,Animal Friendship,6,1,6,13,False,True,True,True,1
+arcane-weapon,Arcane Weapon (UA),5,2,2,14,False,True,True,False,1
+armor-of-agathys,Armor of Agathys,2,1,2,7,False,True,True,True,1
+arms-of-hadar,Arms of Hadar,1,1,11,1,False,True,True,False,1
+bane,Bane,6,1,6,4,False,True,True,True,1
+beast-bond,Beast Bond,7,1,5,4,False,True,True,True,1
+bless,Bless,6,1,6,4,False,True,True,True,1
+burning-hands,Burning Hands,3,1,12,1,False,True,True,False,1
+catapult,Catapult,5,1,1,1,False,False,True,False,1
+cause-fear,Cause Fear,4,1,1,4,False,True,True,False,1
 ceremony,Ceremony,3,1,5,1,True,True,True,True,1
-chaos-bolt,Chaos Bolt,3,1,9,1,False,True,True,False,1
-charm-person,Charm Person,6,1,11,17,False,True,True,False,1
-chromatic-orb,Chromatic Orb,3,1,16,1,False,True,True,True,1
-color-spray,Color Spray,8,1,15,2,False,True,True,True,1
-command,Command,6,1,10,2,False,True,False,False,1
-compelled-duel,Compelled Duel,6,2,11,13,False,True,False,False,1
+chaos-bolt,Chaos Bolt,3,1,4,1,False,True,True,False,1
+charm-person,Charm Person,6,1,6,7,False,True,True,False,1
+chromatic-orb,Chromatic Orb,3,1,13,1,False,True,True,True,1
+color-spray,Color Spray,8,1,12,2,False,True,True,True,1
+command,Command,6,1,1,2,False,True,False,False,1
+compelled-duel,Compelled Duel,6,2,6,4,False,True,False,False,1
 comprehend-languages,Comprehend Languages,7,1,2,7,True,True,True,True,1
-create-or-destroy-water,Create or Destroy Water,5,1,11,1,False,True,True,True,1
+create-or-destroy-water,Create or Destroy Water,5,1,6,1,False,True,True,True,1
 cure-wounds,Cure Wounds,3,1,5,1,False,True,True,False,1
-detect-evil-and-good,Detect Evil and Good,7,1,2,18,False,True,True,False,1
-detect-magic,Detect Magic,7,1,2,18,True,True,True,False,1
-detect-poison-and-disease,Detect Poison and Disease,7,1,2,18,False,True,True,True,1
+detect-evil-and-good,Detect Evil and Good,7,1,2,15,False,True,True,False,1
+detect-magic,Detect Magic,7,1,2,15,True,True,True,False,1
+detect-poison-and-disease,Detect Poison and Disease,7,1,2,15,False,True,True,True,1
 disguise-self,Disguise Self,8,1,2,7,False,True,True,False,1
-dissonant-whispers,Dissonant Whispers,6,1,10,1,False,True,False,False,1
+dissonant-whispers,Dissonant Whispers,6,1,1,1,False,True,False,False,1
 distort-value,Distort Value,8,3,5,6,False,True,False,False,1
-divine-favor,Divine Favor,3,2,2,13,False,True,True,False,1
-earth-tremor,Earth Tremor,3,1,14,1,False,True,True,False,1
-ensnaring-strike,Ensnaring Strike,1,2,2,13,False,True,False,False,1
-entangle,Entangle,1,1,16,13,False,True,True,False,1
-expeditious-retreat,Expeditious Retreat,5,2,2,18,False,True,True,False,1
-faerie-fire,Faerie Fire,3,1,10,13,False,True,False,False,1
+divine-favor,Divine Favor,3,2,2,4,False,True,True,False,1
+earth-tremor,Earth Tremor,3,1,11,1,False,True,True,False,1
+ensnaring-strike,Ensnaring Strike,1,2,2,4,False,True,False,False,1
+entangle,Entangle,1,1,13,4,False,True,True,False,1
+expeditious-retreat,Expeditious Retreat,5,2,2,15,False,True,True,False,1
+faerie-fire,Faerie Fire,3,1,1,4,False,True,False,False,1
 false-life,False Life,4,1,2,7,False,True,True,True,1
-feather-fall,Feather Fall,5,4,10,5,False,True,False,True,1
-find-familiar,Find Familiar,1,5,12,1,True,True,True,True,1
-fog-cloud,Fog Cloud,1,1,9,16,False,True,True,False,1
-frost-fingers,Frost Fingers,3,1,15,1,False,True,True,False,1
+feather-fall,Feather Fall,5,4,1,5,False,True,False,True,1
+find-familiar,Find Familiar,1,5,9,1,True,True,True,True,1
+fog-cloud,Fog Cloud,1,1,4,14,False,True,True,False,1
+frost-fingers,Frost Fingers,3,1,12,1,False,True,True,False,1
 gift-of-alacrity,Gift of Alacrity,7,3,5,6,False,True,True,False,1
 goodberry,Goodberry,5,1,5,1,False,True,True,True,1
-grease,Grease,1,1,10,5,False,True,True,True,1
-guiding-bolt,Guiding Bolt,3,1,9,2,False,True,True,False,1
-guiding-hand-ua,Guiding Hand (UA),7,3,7,19,True,True,True,False,1
-hail-of-thorns,Hail of Thorns,1,2,2,13,False,True,False,False,1
-healing-elixir-ua,Healing Elixir (UA),1,3,2,15,False,True,True,True,1
-healing-word,Healing Word,3,2,10,1,False,True,False,False,1
-hellish-rebuke,Hellish Rebuke,3,4,10,1,False,True,True,False,1
-heroism,Heroism,6,1,5,13,False,True,True,False,1
-hex,Hex,6,2,16,16,False,True,True,True,1
-hunters-mark,Hunter's Mark,7,2,16,16,False,True,False,False,1
-ice-knife,Ice Knife,1,1,10,1,False,False,True,True,1
-id-insinuation,Id Insinuation (UA),6,1,10,13,False,True,True,False,1
+grease,Grease,1,1,1,5,False,True,True,True,1
+guiding-bolt,Guiding Bolt,3,1,4,2,False,True,True,False,1
+guiding-hand-ua,Guiding Hand (UA),7,3,7,16,True,True,True,False,1
+hail-of-thorns,Hail of Thorns,1,2,2,4,False,True,False,False,1
+healing-elixir-ua,Healing Elixir (UA),1,3,2,13,False,True,True,True,1
+healing-word,Healing Word,3,2,1,1,False,True,False,False,1
+hellish-rebuke,Hellish Rebuke,3,4,1,1,False,True,True,False,1
+heroism,Heroism,6,1,5,4,False,True,True,False,1
+hex,Hex,6,2,13,14,False,True,True,True,1
+hunters-mark,Hunter's Mark,7,2,13,14,False,True,False,False,1
+ice-knife,Ice Knife,1,1,1,1,False,False,True,True,1
+id-insinuation,Id Insinuation (UA),6,1,1,4,False,True,True,False,1
 identify,Identify,7,3,5,1,True,True,True,True,1
-illusory-script,Illusory Script,8,3,5,20,False,False,True,True,1
-infallible-relay,Infallible Relay (UA),7,3,2,18,False,True,True,True,1
+illusory-script,Illusory Script,8,3,5,17,False,False,True,True,1
+infallible-relay,Infallible Relay (UA),7,3,2,15,False,True,True,True,1
 inflict-wounds,Inflict Wounds,4,1,5,1,False,True,True,False,1
-jims-magic-missile,Jim's Magic Missile,3,1,9,1,False,True,True,True,1
+jims-magic-missile,Jim's Magic Missile,3,1,4,1,False,True,True,True,1
 jump,Jump,5,1,5,5,False,True,True,True,1
 longstrider,Longstrider,5,1,5,7,False,True,True,True,1
 mage-armor,Mage Armor,2,1,5,6,False,True,True,True,1
-magic-missile,Magic Missile,3,1,9,1,False,True,True,False,1
-magnify-gravity,Magnify Gravity,5,1,10,2,False,True,True,False,1
-protection-from-evil-and-good,Protection from Evil and Good,2,1,5,18,False,True,True,True,1
-puppet,Puppet (UA),6,1,9,1,False,True,False,False,1
-purify-food-and-drink,Purify Food and Drink,5,1,12,1,True,True,True,False,1
-ray-of-sickness,Ray of Sickness,4,1,10,1,False,True,True,False,1
-remote-access,Remote Access (UA),5,1,9,10,False,True,True,False,1
-sanctuary,Sanctuary,2,2,11,5,False,True,True,True,1
-searing-smite,Searing Smite,3,2,2,13,False,True,False,False,1
-sense-emotion,Sense Emotion (UA),7,1,2,13,False,True,True,False,1
+magic-missile,Magic Missile,3,1,4,1,False,True,True,False,1
+magnify-gravity,Magnify Gravity,5,1,1,2,False,True,True,False,1
+protection-from-evil-and-good,Protection from Evil and Good,2,1,5,15,False,True,True,True,1
+puppet,Puppet (UA),6,1,4,1,False,True,False,False,1
+purify-food-and-drink,Purify Food and Drink,5,1,9,1,True,True,True,False,1
+ray-of-sickness,Ray of Sickness,4,1,1,1,False,True,True,False,1
+remote-access,Remote Access (UA),5,1,4,10,False,True,True,False,1
+sanctuary,Sanctuary,2,2,6,5,False,True,True,True,1
+searing-smite,Searing Smite,3,2,2,4,False,True,False,False,1
+sense-emotion,Sense Emotion (UA),7,1,2,4,False,True,True,False,1
 shield,Shield,2,4,2,2,False,True,True,False,1
-shield-of-faith,Shield of Faith,2,2,10,13,False,True,True,True,1
-silent-image,Silent Image,8,1,10,18,False,True,True,True,1
-sleep,Sleep,6,1,16,5,False,True,True,True,1
-snare,Snare,2,3,5,21,False,True,True,True,1
+shield-of-faith,Shield of Faith,2,2,1,4,False,True,True,True,1
+silent-image,Silent Image,8,1,1,15,False,True,True,True,1
+sleep,Sleep,6,1,13,5,False,True,True,True,1
+snare,Snare,2,3,5,18,False,True,True,True,1
 speak-with-animals,Speak with Animals,7,1,2,10,True,True,True,False,1
-sudden-awakening,Sudden Awakening (UA),6,2,12,1,False,True,False,False,1
-tashas-caustic-brew,Tasha's Caustic Brew,3,1,13,13,False,True,True,True,1
-tashas-hideous-laughter,Tasha's Hideous Laughter,6,1,11,13,False,True,True,True,1
-tensers-floating-disk,Tenser's Floating Disk,1,1,11,7,True,True,True,True,1
-thunderous-smite,Thunderous Smite,3,2,2,13,False,True,False,False,1
-thunderwave,Thunderwave,3,1,17,1,False,True,True,False,1
-unearthly-chorus,Unearthly Chorus (UA),8,1,18,18,False,True,False,False,1
-unseen-servant,Unseen Servant,1,1,10,7,True,True,True,True,1
-wild-cunning-ua,Wild Cunning (UA),5,1,9,1,True,True,True,False,1
-witch-bolt,Witch Bolt,3,1,11,13,False,True,True,True,1
-wrathful-smite,Wrathful Smite,3,2,2,13,False,True,False,False,1
-zephyr-strike,Zephyr Strike,5,2,2,13,False,True,False,False,1
+sudden-awakening,Sudden Awakening (UA),6,2,9,1,False,True,False,False,1
+tashas-caustic-brew,Tasha's Caustic Brew,3,1,10,4,False,True,True,True,1
+tashas-hideous-laughter,Tasha's Hideous Laughter,6,1,6,4,False,True,True,True,1
+tensers-floating-disk,Tenser's Floating Disk,1,1,6,7,True,True,True,True,1
+thunderous-smite,Thunderous Smite,3,2,2,4,False,True,False,False,1
+thunderwave,Thunderwave,3,1,14,1,False,True,True,False,1
+unearthly-chorus,Unearthly Chorus (UA),8,1,15,15,False,True,False,False,1
+unseen-servant,Unseen Servant,1,1,1,7,True,True,True,True,1
+wild-cunning-ua,Wild Cunning (UA),5,1,4,1,True,True,True,False,1
+witch-bolt,Witch Bolt,3,1,6,4,False,True,True,True,1
+wrathful-smite,Wrathful Smite,3,2,2,4,False,True,False,False,1
+zephyr-strike,Zephyr Strike,5,2,2,4,False,True,False,False,1
 aganazzars-scorcher,Aganazzar's Scorcher,3,1,6,1,False,True,True,True,2
 aid,Aid,2,1,6,6,False,True,True,True,2
-alter-self,Alter Self,5,1,2,16,False,True,True,False,2
-animal-messenger,Animal Messenger,6,1,6,15,True,True,True,True,2
-arcane-hacking,Arcane Hacking (UA),5,1,2,16,False,True,True,True,2
-arcane-lock,Arcane Lock,2,1,5,22,False,True,True,True,2
+alter-self,Alter Self,5,1,2,14,False,True,True,False,2
+animal-messenger,Animal Messenger,6,1,6,13,True,True,True,True,2
+arcane-hacking,Arcane Hacking (UA),5,1,2,14,False,True,True,True,2
+arcane-lock,Arcane Lock,2,1,5,19,False,True,True,True,2
 augury,Augury,7,3,2,1,True,True,True,True,2
-barkskin,Barkskin,5,1,5,16,False,True,True,True,2
-beast-sense,Beast Sense,7,1,5,16,True,False,True,False,2
+barkskin,Barkskin,5,1,5,14,False,True,True,True,2
+beast-sense,Beast Sense,7,1,5,14,True,False,True,False,2
 blindness-deafness,Blindness/Deafness,4,1,6,5,False,True,False,False,2
-blur,Blur,8,1,2,13,False,True,False,False,2
-branding-smite,Branding Smite,3,2,2,13,False,True,False,False,2
-calm-emotions,Calm Emotions,6,1,10,13,False,True,True,False,2
-cloud-of-daggers,Cloud of Daggers,1,1,10,13,False,True,True,True,2
-continual-flame,Continual Flame,3,1,5,22,False,True,True,True,2
+blur,Blur,8,1,2,4,False,True,False,False,2
+branding-smite,Branding Smite,3,2,2,4,False,True,False,False,2
+calm-emotions,Calm Emotions,6,1,1,4,False,True,True,False,2
+cloud-of-daggers,Cloud of Daggers,1,1,1,4,False,True,True,True,2
+continual-flame,Continual Flame,3,1,5,19,False,True,True,True,2
 cordon-of-arrows,Cordon of Arrows,5,1,7,6,False,True,True,True,2
-crown-of-madness,Crown of Madness,6,1,9,13,False,True,True,False,2
-darkness,Darkness,3,1,10,18,False,True,False,True,2
+crown-of-madness,Crown of Madness,6,1,4,4,False,True,True,False,2
+darkness,Darkness,3,1,1,15,False,True,False,True,2
 darkvision,Darkvision,5,1,5,6,False,True,True,True,2
-detect-thoughts,Detect Thoughts,7,1,5,13,False,True,True,True,2
-digital-phantom,Digital Phantom (UA),2,1,2,16,False,True,True,True,2
-dragons-breath,Dragon's Breath,5,2,5,13,False,True,True,True,2
-dust-devil,Dust Devil,1,1,10,13,False,True,True,True,2
-earthbind,Earthbind,5,1,19,13,False,True,False,False,2
-enhance-ability,Enhance Ability,5,1,5,16,False,True,True,True,2
-enlarge-reduce,Enlarge/Reduce,5,1,11,13,False,True,True,True,2
-enthrall,Enthrall,6,1,10,5,False,True,True,False,2
-find-steed,Find Steed,1,6,11,1,False,True,True,False,2
-find-traps,Find Traps,7,1,9,1,False,True,True,False,2
-find-vehicle,Find Vehicle (UA),1,6,11,6,False,True,True,False,2
-flame-blade,Flame Blade,3,2,2,18,False,True,True,True,2
-flaming-sphere,Flaming Sphere,1,1,10,13,False,True,True,True,2
+detect-thoughts,Detect Thoughts,7,1,5,4,False,True,True,True,2
+digital-phantom,Digital Phantom (UA),2,1,2,14,False,True,True,True,2
+dragons-breath,Dragon's Breath,5,2,5,4,False,True,True,True,2
+dust-devil,Dust Devil,1,1,1,4,False,True,True,True,2
+earthbind,Earthbind,5,1,16,4,False,True,False,False,2
+enhance-ability,Enhance Ability,5,1,5,14,False,True,True,True,2
+enlarge-reduce,Enlarge/Reduce,5,1,6,4,False,True,True,True,2
+enthrall,Enthrall,6,1,1,5,False,True,True,False,2
+find-steed,Find Steed,1,6,6,1,False,True,True,False,2
+find-traps,Find Traps,7,1,4,1,False,True,True,False,2
+find-vehicle,Find Vehicle (UA),1,6,6,6,False,True,True,False,2
+flame-blade,Flame Blade,3,2,2,15,False,True,True,True,2
+flaming-sphere,Flaming Sphere,1,1,1,4,False,True,True,True,2
 flock-of-familiars,Flock of Familiars,1,3,5,7,False,True,True,False,2
-fortunes-favor,Fortune's Favor,7,1,10,7,False,True,True,True,2
-gentle-repose,Gentle Repose,4,1,5,20,True,True,True,True,2
+fortunes-favor,Fortune's Favor,7,1,1,7,False,True,True,True,2
+gentle-repose,Gentle Repose,4,1,5,17,True,True,True,True,2
 gift-of-gab,Gift of Gab,6,7,2,1,False,True,True,True,2
-gust-of-wind,Gust of Wind,3,1,20,13,False,True,True,True,2
-healing-spirit,Healing Spirit,1,2,10,13,False,True,True,False,2
-heat-metal,Heat Metal,5,1,10,13,False,True,True,True,2
-hold-person,Hold Person,6,1,10,13,False,True,True,True,2
-icingdeath-s-frost-ua,Icingdeath's Frost (UA),3,1,15,1,False,False,True,True,2
+gust-of-wind,Gust of Wind,3,1,17,4,False,True,True,True,2
+healing-spirit,Healing Spirit,1,2,1,4,False,True,True,False,2
+heat-metal,Heat Metal,5,1,1,4,False,True,True,True,2
+hold-person,Hold Person,6,1,1,4,False,True,True,True,2
+icingdeath-s-frost-ua,Icingdeath's Frost (UA),3,1,12,1,False,False,True,True,2
 immovable-object,Immovable Object,5,1,5,7,False,True,True,True,2
-invisibility,Invisibility,5,1,5,16,False,True,True,True,2
-jims-glowing-coin,Jim's Glowing Coin,6,1,10,5,False,False,True,True,2
-knock,Knock,5,1,10,1,False,True,False,False,2
+invisibility,Invisibility,5,1,5,14,False,True,True,True,2
+jims-glowing-coin,Jim's Glowing Coin,6,1,1,5,False,False,True,True,2
+knock,Knock,5,1,1,1,False,True,False,False,2
 lesser-restoration,Lesser Restoration,2,1,5,1,False,True,True,False,2
-levitate,Levitate,5,1,10,18,False,True,True,True,2
+levitate,Levitate,5,1,1,15,False,True,True,True,2
 locate-animals-or-plants,Locate Animals or Plants,7,1,2,1,True,True,True,True,2
-locate-object,Locate Object,7,1,2,18,False,True,True,True,2
-magic-mouth,Magic Mouth,8,3,11,22,True,True,True,True,2
-magic-weapon,Magic Weapon,5,2,5,16,False,True,True,False,2
-maximillians-earthen-grasp,Maximillian's Earthen Grasp,5,1,11,13,False,True,True,True,2
-melfs-acid-arrow,Melf's Acid Arrow,3,1,16,1,False,True,True,True,2
+locate-object,Locate Object,7,1,2,15,False,True,True,True,2
+magic-mouth,Magic Mouth,8,3,6,19,True,True,True,True,2
+magic-weapon,Magic Weapon,5,2,5,14,False,True,True,False,2
+maximillians-earthen-grasp,Maximillian's Earthen Grasp,5,1,6,4,False,True,True,True,2
+melfs-acid-arrow,Melf's Acid Arrow,3,1,13,1,False,True,True,True,2
 mental-barrier,Mental Barrier (UA),2,4,2,2,False,True,False,False,2
-mind-spike,Mind Spike,7,1,10,16,False,False,True,False,2
-mind-thrust,Mind Thrust (UA),6,2,10,2,False,True,True,False,2
+mind-spike,Mind Spike,7,1,1,14,False,False,True,False,2
+mind-thrust,Mind Thrust (UA),6,2,1,2,False,True,True,False,2
 mirror-image,Mirror Image,8,1,2,5,False,True,True,False,2
 misty-step,Misty Step,1,2,2,1,False,True,False,False,2
-moonbeam,Moonbeam,3,1,9,13,False,True,True,True,2
-nathairs-mischief,Nathair's Mischief,8,1,21,13,False,False,True,True,2
-nathairs-mischief-ua,Nathair's Mischief (UA),8,1,10,13,False,False,True,True,2
-nystuls-magic-aura,Nystul's Magic Aura,8,1,5,15,False,True,True,True,2
-pass-without-trace,Pass Without Trace,2,1,2,16,False,True,True,True,2
-phantasmal-force,Phantasmal Force,8,1,10,13,False,True,True,True,2
+moonbeam,Moonbeam,3,1,4,4,False,True,True,True,2
+nathairs-mischief,Nathair's Mischief,8,1,18,4,False,False,True,True,2
+nathairs-mischief-ua,Nathair's Mischief (UA),8,1,1,4,False,False,True,True,2
+nystuls-magic-aura,Nystul's Magic Aura,8,1,5,13,False,True,True,True,2
+pass-without-trace,Pass Without Trace,2,1,2,14,False,True,True,True,2
+phantasmal-force,Phantasmal Force,8,1,1,4,False,True,True,True,2
 prayer-of-healing,Prayer of Healing,3,6,5,1,False,True,False,False,2
 protection-from-poison,Protection from Poison,2,1,5,7,False,True,True,False,2
-pyrotechnics,Pyrotechnics,5,1,10,1,False,True,True,False,2
-ray-of-enfeeblement,Ray of Enfeeblement,4,1,10,13,False,True,True,False,2
-rimes-binding-ice,Rime's Binding Ice,3,1,22,1,False,False,True,True,2
+pyrotechnics,Pyrotechnics,5,1,1,1,False,True,True,False,2
+ray-of-enfeeblement,Ray of Enfeeblement,4,1,1,4,False,True,True,False,2
+rimes-binding-ice,Rime's Binding Ice,3,1,19,1,False,False,True,True,2
 rope-trick,Rope Trick,5,1,5,7,False,True,True,True,2
-scorching-ray,Scorching Ray,3,1,9,1,False,True,True,False,2
+scorching-ray,Scorching Ray,3,1,4,1,False,True,True,False,2
 see-invisibility,See Invisibility,7,1,2,7,False,True,True,True,2
-shadow-blade,Shadow Blade,8,2,2,13,False,True,True,False,2
-shatter,Shatter,3,1,10,1,False,True,True,True,2
-silence,Silence,8,1,9,18,True,True,True,False,2
-skywrite,Skywrite,5,1,23,23,True,True,True,False,2
-snillocs-snowball-storm,Snilloc's Snowball Storm,3,1,16,1,False,True,True,True,2
-spider-climb,Spider Climb,5,1,5,16,False,True,True,True,2
-spike-growth,Spike Growth,5,1,24,18,False,True,True,True,2
-spiritual-weapon,Spiritual Weapon,3,2,10,5,False,True,True,False,2
-suggestion,Suggestion,6,1,11,19,False,True,False,True,2
-summon-beast,Summon Beast,1,1,16,16,False,True,True,True,2
-tashas-mind-whip,Tasha's Mind Whip,6,1,16,2,False,True,False,False,2
+shadow-blade,Shadow Blade,8,2,2,4,False,True,True,False,2
+shatter,Shatter,3,1,1,1,False,True,True,True,2
+silence,Silence,8,1,4,15,True,True,True,False,2
+skywrite,Skywrite,5,1,20,20,True,True,True,False,2
+snillocs-snowball-storm,Snilloc's Snowball Storm,3,1,13,1,False,True,True,True,2
+spider-climb,Spider Climb,5,1,5,14,False,True,True,True,2
+spike-growth,Spike Growth,5,1,21,15,False,True,True,True,2
+spiritual-weapon,Spiritual Weapon,3,2,1,5,False,True,True,False,2
+suggestion,Suggestion,6,1,6,16,False,True,False,True,2
+summon-beast,Summon Beast,1,1,13,14,False,True,True,True,2
+tashas-mind-whip,Tasha's Mind Whip,6,1,13,2,False,True,False,False,2
 thought-shield,Thought Shield (UA),2,1,5,6,False,True,True,False,2
 warding-bond,Warding Bond,2,1,5,7,False,True,True,True,2
-warding-wind,Warding Wind,3,1,2,18,False,True,False,False,2
-web,Web,1,1,10,16,False,True,True,True,2
-wristpocket,Wristpocket,1,1,2,16,True,False,True,False,2
-zone-of-truth,Zone of Truth,6,1,10,10,False,True,True,False,2
-animate-dead,Animate Dead,4,3,12,1,False,True,True,True,3
-ashardalons-stride,Ashardalons Stride,5,2,2,13,False,True,True,False,3
-aura-of-vitality,Aura of Vitality,3,1,18,13,False,True,False,False,3
-beacon-of-hope,Beacon of Hope,2,1,11,13,False,True,True,False,3
-bestow-curse,Bestow Curse,4,1,5,13,False,True,True,False,3
-blinding-smite,Blinding Smite,3,2,2,13,False,True,False,False,3
+warding-wind,Warding Wind,3,1,2,15,False,True,False,False,2
+web,Web,1,1,1,14,False,True,True,True,2
+wristpocket,Wristpocket,1,1,2,14,True,False,True,False,2
+zone-of-truth,Zone of Truth,6,1,1,10,False,True,True,False,2
+animate-dead,Animate Dead,4,3,9,1,False,True,True,True,3
+ashardalons-stride,Ashardalons Stride,5,2,2,4,False,True,True,False,3
+aura-of-vitality,Aura of Vitality,3,1,15,4,False,True,False,False,3
+beacon-of-hope,Beacon of Hope,2,1,6,4,False,True,True,False,3
+bestow-curse,Bestow Curse,4,1,5,4,False,True,True,False,3
+blinding-smite,Blinding Smite,3,2,2,4,False,True,False,False,3
 blink,Blink,5,1,2,5,False,True,True,False,3
-call-lightning,Call Lightning,1,1,9,18,False,True,True,False,3
-catnap,Catnap,6,1,11,10,False,False,True,True,3
-clairvoyance,Clairvoyance,7,6,25,18,False,True,True,True,3
-conjure-animals,Conjure Animals,1,1,10,16,False,True,True,False,3
-conjure-barrage,Conjure Barrage,1,1,26,1,False,True,True,True,3
-conjure-lesser-demon,Conjure Lesser Demon,1,1,10,16,False,True,True,True,3
-counterspell,Counterspell,2,4,10,1,False,False,True,False,3
-create-food-and-water,Create Food and Water,1,1,11,1,False,True,True,False,3
-crusaders-mantle,Crusader's Mantle,3,1,2,13,False,True,False,False,3
-daylight,Daylight,3,1,10,7,False,True,True,False,3
-dispel-magic,Dispel Magic,2,1,9,1,False,True,True,False,3
-elemental-weapon,Elemental Weapon,5,1,5,16,False,True,True,False,3
-enemies-abound,Enemies Abound,6,1,9,13,False,True,True,False,3
-erupting-earth,Erupting Earth,5,1,9,1,False,True,True,True,3
-fast-friends,Fast Friends,6,1,11,16,False,True,False,False,3
-fear,Fear,8,1,22,13,False,True,True,True,3
+call-lightning,Call Lightning,1,1,4,15,False,True,True,False,3
+catnap,Catnap,6,1,6,10,False,False,True,True,3
+clairvoyance,Clairvoyance,7,6,22,15,False,True,True,True,3
+conjure-animals,Conjure Animals,1,1,1,14,False,True,True,False,3
+conjure-barrage,Conjure Barrage,1,1,23,1,False,True,True,True,3
+conjure-lesser-demon,Conjure Lesser Demon,1,1,1,14,False,True,True,True,3
+counterspell,Counterspell,2,4,1,1,False,False,True,False,3
+create-food-and-water,Create Food and Water,1,1,6,1,False,True,True,False,3
+crusaders-mantle,Crusader's Mantle,3,1,2,4,False,True,False,False,3
+daylight,Daylight,3,1,1,7,False,True,True,False,3
+dispel-magic,Dispel Magic,2,1,4,1,False,True,True,False,3
+elemental-weapon,Elemental Weapon,5,1,5,14,False,True,True,False,3
+enemies-abound,Enemies Abound,6,1,4,4,False,True,True,False,3
+erupting-earth,Erupting Earth,5,1,4,1,False,True,True,True,3
+fast-friends,Fast Friends,6,1,6,14,False,True,False,False,3
+fear,Fear,8,1,19,4,False,True,True,True,3
 feign-death,Feign Death,4,1,5,7,True,True,True,True,3
-fireball,Fireball,3,1,24,1,False,True,True,True,3
-flame-arrows,Flame Arrows,5,1,5,16,False,True,True,False,3
-flame-stride,Flame Stride (UA),5,2,2,13,False,True,True,False,3
-fly,Fly,5,1,5,24,False,True,True,True,3
-galders-tower,Galder's Tower,1,6,11,15,False,True,True,True,3
-gaseous-form,Gaseous Form,5,1,5,16,False,True,True,True,3
-glyph-of-warding,Glyph of Warding,2,5,5,21,False,True,True,True,3
-haste,Haste,5,1,11,13,False,True,True,True,3
-haywire-ua,Haywire (UA),6,1,16,13,False,True,True,False,3
-hunger-of-hadar,Hunger Of Hadar,1,1,24,13,False,True,True,True,3
-hypnotic-pattern,Hypnotic Pattern,8,1,9,13,False,False,True,True,3
-incite-greed,Incite Greed,6,8,11,13,False,True,True,True,3
-intellect-fortress,Intellect Fortress,2,1,11,16,False,True,False,False,3
-invisibility-to-cameras,Invisibility To Cameras (UA),8,1,12,13,False,True,True,True,3
-leomunds-tiny-hut,Leomund's Tiny Hut,3,3,27,6,True,True,True,True,3
-life-transference,Life Transference,4,1,11,1,False,True,True,False,3
-lightning-arrow,Lightning Arrow,5,2,2,13,False,True,True,False,3
-lightning-bolt,Lightning Bolt,3,1,28,1,False,True,True,True,3
-magic-circle,Magic Circle,2,3,12,7,False,True,True,True,3
-major-image,Major Image,8,1,9,18,False,True,True,True,3
-mass-healing-word,Mass Healing Word,3,2,10,1,False,True,False,False,3
+fireball,Fireball,3,1,21,1,False,True,True,True,3
+flame-arrows,Flame Arrows,5,1,5,14,False,True,True,False,3
+flame-stride,Flame Stride (UA),5,2,2,4,False,True,True,False,3
+fly,Fly,5,1,5,15,False,True,True,True,3
+galders-tower,Galder's Tower,1,6,6,13,False,True,True,True,3
+gaseous-form,Gaseous Form,5,1,5,14,False,True,True,True,3
+glyph-of-warding,Glyph of Warding,2,5,5,18,False,True,True,True,3
+haste,Haste,5,1,6,4,False,True,True,True,3
+haywire-ua,Haywire (UA),6,1,13,4,False,True,True,False,3
+hunger-of-hadar,Hunger Of Hadar,1,1,21,4,False,True,True,True,3
+hypnotic-pattern,Hypnotic Pattern,8,1,4,4,False,False,True,True,3
+incite-greed,Incite Greed,6,1,6,4,False,True,True,True,3
+intellect-fortress,Intellect Fortress,2,1,6,14,False,True,False,False,3
+invisibility-to-cameras,Invisibility To Cameras (UA),8,1,9,4,False,True,True,True,3
+leomunds-tiny-hut,Leomund's Tiny Hut,3,3,24,6,True,True,True,True,3
+life-transference,Life Transference,4,1,6,1,False,True,True,False,3
+lightning-arrow,Lightning Arrow,5,2,2,4,False,True,True,False,3
+lightning-bolt,Lightning Bolt,3,1,25,1,False,True,True,True,3
+magic-circle,Magic Circle,2,3,9,7,False,True,True,True,3
+major-image,Major Image,8,1,4,15,False,True,True,True,3
+mass-healing-word,Mass Healing Word,3,2,1,1,False,True,False,False,3
 meld-into-stone,Meld into Stone,5,1,5,6,True,True,True,False,3
-melfs-minute-meteors,Melf's Minute Meteors,3,9,9,18,False,True,True,True,3
-motivational-speech,Motivational Speech,6,10,10,7,False,True,False,False,3
+melfs-minute-meteors,Melf's Minute Meteors,3,8,4,15,False,True,True,True,3
+motivational-speech,Motivational Speech,6,5,1,7,False,True,False,False,3
 nondetection,Nondetection,2,1,5,6,False,True,True,True,3
-phantom-steed,Phantom Steed,8,1,11,7,True,True,True,False,3
-plant-growth,Plant Growth,5,11,24,1,False,True,True,False,3
-protection-from-ballistics,Protection from Ballistics (UA),2,1,5,18,False,True,True,True,3
-protection-from-energy,Protection from Energy,2,1,5,16,False,True,True,False,3
-psionic-blast,Psionic Blast (UA),3,1,22,1,False,True,False,False,3
-pulse-wave,Pulse Wave,3,1,22,1,False,True,True,False,3
+phantom-steed,Phantom Steed,8,1,6,7,True,True,True,False,3
+plant-growth,Plant Growth,5,9,21,1,False,True,True,False,3
+protection-from-ballistics,Protection from Ballistics (UA),2,1,5,15,False,True,True,True,3
+protection-from-energy,Protection from Energy,2,1,5,14,False,True,True,False,3
+psionic-blast,Psionic Blast (UA),3,1,19,1,False,True,False,False,3
+pulse-wave,Pulse Wave,3,1,19,1,False,True,True,False,3
 remove-curse,Remove Curse,2,1,5,1,False,True,True,False,3
 revivify,Revivify,4,1,5,1,False,True,True,True,3
-sending,Sending,3,1,29,2,False,True,True,True,3
-sleet-storm,Sleet Storm,1,1,9,13,False,True,True,True,3
-slow,Slow,5,1,9,13,False,True,True,True,3
-speak-with-dead,Speak with Dead,4,1,12,10,False,True,True,True,3
-speak-with-plants,Speak with Plants,5,1,18,10,False,True,True,False,3
-spirit-guardians,Spirit Guardians,1,1,8,18,False,True,True,True,3
-spirit-shroud,Spirit Shroud,4,2,2,13,False,True,True,False,3
-stinking-cloud,Stinking Cloud,1,1,16,13,False,True,True,True,3
-summon-fey,Summon Fey,1,1,16,16,False,True,True,True,3
-summon-lesser-demons,Summon Lesser Demons,1,1,1,16,False,True,True,True,3
-summon-shadowspawn,Summon Shadowspawn,1,1,16,16,False,True,True,True,3
-summon-undead,Summon Undead,4,1,16,16,False,True,True,True,3
-thunder-step,Thunder Step,1,1,16,1,False,True,False,False,3
-tidal-wave,Tidal Wave,1,1,9,1,False,True,True,True,3
+sending,Sending,3,1,26,2,False,True,True,True,3
+sleet-storm,Sleet Storm,1,1,4,4,False,True,True,True,3
+slow,Slow,5,1,4,4,False,True,True,True,3
+speak-with-dead,Speak with Dead,4,1,9,10,False,True,True,True,3
+speak-with-plants,Speak with Plants,5,1,15,10,False,True,True,False,3
+spirit-guardians,Spirit Guardians,1,1,8,15,False,True,True,True,3
+spirit-shroud,Spirit Shroud,4,2,2,4,False,True,True,False,3
+stinking-cloud,Stinking Cloud,1,1,13,4,False,True,True,True,3
+summon-fey,Summon Fey,1,1,13,14,False,True,True,True,3
+summon-lesser-demons,Summon Lesser Demons,1,1,1,14,False,True,True,True,3
+summon-shadowspawn,Summon Shadowspawn,1,1,13,14,False,True,True,True,3
+summon-undead,Summon Undead,4,1,13,14,False,True,True,True,3
+thunder-step,Thunder Step,1,1,13,1,False,True,False,False,3
+tidal-wave,Tidal Wave,1,1,4,1,False,True,True,True,3
 tiny-servant,Tiny Servant,5,3,5,6,False,True,True,False,3
 tongues,Tongues,7,1,5,7,False,True,False,True,3
-vampiric-touch,Vampiric Touch,4,1,2,13,False,True,True,False,3
-wall-of-sand,Wall of Sand,3,1,16,18,False,True,True,True,3
-wall-of-water,Wall of Water,3,1,10,18,False,True,True,True,3
-water-breathing,Water Breathing,5,1,11,15,True,True,True,True,3
-water-walk,Water Walk,5,1,11,7,True,True,True,True,3
-wind-wall,Wind Wall,3,1,9,13,False,True,True,True,3
-arcane-eye,Arcane Eye,7,1,11,16,False,True,True,True,4
-aura-of-life,Aura of Life,2,1,18,18,False,True,False,False,4
-aura-of-purity,Aura of Purity,2,1,18,18,False,True,False,False,4
-banishment,Banishment,2,1,10,25,False,True,True,True,4
-blight,Blight,4,1,11,1,False,True,True,False,4
-charm-monster,Charm Monster,6,1,11,7,False,True,True,False,4
-compulsion,Compulsion,6,1,11,13,False,True,True,False,4
-confusion,Confusion,6,1,16,13,False,True,True,True,4
-conjure-barlgura,Conjure Barlgura (UA),1,1,10,26,False,True,True,False,4
+vampiric-touch,Vampiric Touch,4,1,2,4,False,True,True,False,3
+wall-of-sand,Wall of Sand,3,1,13,15,False,True,True,True,3
+wall-of-water,Wall of Water,3,1,1,15,False,True,True,True,3
+water-breathing,Water Breathing,5,1,6,13,True,True,True,True,3
+water-walk,Water Walk,5,1,6,7,True,True,True,True,3
+wind-wall,Wind Wall,3,1,4,4,False,True,True,True,3
+arcane-eye,Arcane Eye,7,1,6,14,False,True,True,True,4
+aura-of-life,Aura of Life,2,1,15,15,False,True,False,False,4
+aura-of-purity,Aura of Purity,2,1,15,15,False,True,False,False,4
+banishment,Banishment,2,1,1,4,False,True,True,True,4
+blight,Blight,4,1,6,1,False,True,True,False,4
+charm-monster,Charm Monster,6,1,6,7,False,True,True,False,4
+compulsion,Compulsion,6,1,6,4,False,True,True,False,4
+confusion,Confusion,6,1,13,4,False,True,True,True,4
+conjure-barlgura,Conjure Barlgura (UA),1,1,1,21,False,True,True,False,4
 conjure-knowbot,Conjure Knowbot (UA),1,1,5,10,False,True,True,False,4
-conjure-minor-elementals,Conjure Minor Elementals,1,3,16,16,False,True,True,False,4
-conjure-shadow-demon,Conjure Shadow Demon (UA),1,1,10,16,False,True,True,True,4
-conjure-woodland-beings,Conjure Woodland Beings,1,1,10,16,False,True,True,True,4
-control-water,Control Water,5,1,19,18,False,True,True,True,4
+conjure-minor-elementals,Conjure Minor Elementals,1,3,13,14,False,True,True,False,4
+conjure-shadow-demon,Conjure Shadow Demon (UA),1,1,1,14,False,True,True,True,4
+conjure-woodland-beings,Conjure Woodland Beings,1,1,1,14,False,True,True,True,4
+control-water,Control Water,5,1,16,15,False,True,True,True,4
 death-ward,Death Ward,2,1,5,6,False,True,True,False,4
-dimension-door,Dimension Door,1,1,30,1,False,True,False,False,4
+dimension-door,Dimension Door,1,1,27,1,False,True,False,False,4
 divination,Divination,7,1,2,1,True,True,True,True,4
-dominate-beast,Dominate Beast,6,1,10,13,False,True,True,False,4
-ego-whip,Ego Whip (UA),6,1,11,13,False,True,False,False,4
-elemental-bane,Elemental Bane,5,1,16,13,False,True,True,False,4
-evards-black-tentacles,Evard's Black Tentacles,1,1,16,13,False,True,True,True,4
-fabricate,Fabricate,5,6,9,1,False,True,True,False,4
-find-greater-steed,Find Greater Steed,1,6,11,1,False,True,True,False,4
+dominate-beast,Dominate Beast,6,1,1,4,False,True,True,False,4
+ego-whip,Ego Whip (UA),6,1,6,4,False,True,False,False,4
+elemental-bane,Elemental Bane,5,1,13,4,False,True,True,False,4
+evards-black-tentacles,Evard's Black Tentacles,1,1,13,4,False,True,True,True,4
+fabricate,Fabricate,5,6,4,1,False,True,True,False,4
+find-greater-steed,Find Greater Steed,1,6,6,1,False,True,True,False,4
 fire-shield,Fire Shield,3,1,2,10,False,True,True,True,4
 freedom-of-movement,Freedom of Movement,2,1,5,7,False,True,True,True,4
-galders-speedy-courier,Galder's Speedy Courier,1,1,12,10,False,True,True,True,4
-giant-insect,Giant Insect,5,1,11,18,False,True,True,False,4
-grasping-vine,Grasping Vine,1,2,11,13,False,True,True,False,4
-gravity-sinkhole,Gravity Sinkhole,3,1,9,1,False,True,True,True,4
-greater-invisibility,Greater Invisibility,8,1,5,13,False,True,True,False,4
-guardian-of-faith,Guardian of Faith,1,1,11,6,False,True,False,False,4
-guardian-of-nature,Guardian of Nature,5,2,2,13,False,True,False,False,4
-hallucinatory-terrain,Hallucinatory Terrain,8,6,19,15,False,True,True,True,4
-ice-storm,Ice Storm,3,1,19,1,False,True,True,True,4
+galders-speedy-courier,Galder's Speedy Courier,1,1,9,10,False,True,True,True,4
+giant-insect,Giant Insect,5,1,6,15,False,True,True,False,4
+grasping-vine,Grasping Vine,1,2,6,4,False,True,True,False,4
+gravity-sinkhole,Gravity Sinkhole,3,1,4,1,False,True,True,True,4
+greater-invisibility,Greater Invisibility,8,1,5,4,False,True,True,False,4
+guardian-of-faith,Guardian of Faith,1,1,6,6,False,True,False,False,4
+guardian-of-nature,Guardian of Nature,5,2,2,4,False,True,False,False,4
+hallucinatory-terrain,Hallucinatory Terrain,8,6,16,13,False,True,True,True,4
+ice-storm,Ice Storm,3,1,16,1,False,True,True,True,4
 leomunds-secret-chest,Leomund's Secret Chest,1,1,5,1,False,True,True,True,4
-locate-creature,Locate Creature,7,1,2,16,False,True,True,True,4
-mordenkainens-faithful-hound,Mordenkainen's Faithful Hound,1,1,11,6,False,True,True,True,4
-mordenkainens-private-sanctum,Mordenkainen's Private Sanctum,2,1,9,15,False,True,True,True,4
-otilukes-resilient-sphere,Otiluke's Resilient Sphere,3,1,11,13,False,True,True,True,4
-phantasmal-killer,Phantasmal Killer,8,1,9,13,False,True,True,False,4
-polymorph,Polymorph,5,1,10,16,False,True,True,True,4
-raulothims-psychic-lance,Raulothim's Psychic Lance,6,1,31,1,False,True,False,False,4
-raulothims-psychic-lance-ua,Raulothim's Psychic Lance (UA),6,1,9,1,False,True,False,False,4
-shadow-of-moil,Shadow Of Moil,4,1,2,13,False,True,True,True,4
-sickening-radiance,Sickening Radiance,3,1,4,18,False,True,True,False,4
-staggering-smite,Staggering Smite,3,2,2,13,False,True,False,False,4
+locate-creature,Locate Creature,7,1,2,14,False,True,True,True,4
+mordenkainens-faithful-hound,Mordenkainen's Faithful Hound,1,1,6,6,False,True,True,True,4
+mordenkainens-private-sanctum,Mordenkainen's Private Sanctum,2,1,4,13,False,True,True,True,4
+otilukes-resilient-sphere,Otiluke's Resilient Sphere,3,1,6,4,False,True,True,True,4
+phantasmal-killer,Phantasmal Killer,8,1,4,4,False,True,True,False,4
+polymorph,Polymorph,5,1,1,14,False,True,True,True,4
+raulothims-psychic-lance,Raulothim's Psychic Lance,6,1,28,1,False,True,False,False,4
+raulothims-psychic-lance-ua,Raulothim's Psychic Lance (UA),6,1,4,1,False,True,False,False,4
+shadow-of-moil,Shadow Of Moil,4,1,2,4,False,True,True,True,4
+sickening-radiance,Sickening Radiance,3,1,4,15,False,True,True,False,4
+staggering-smite,Staggering Smite,3,2,2,4,False,True,False,False,4
 stone-shape,Stone Shape,5,1,5,1,False,True,True,True,4
-stoneskin,Stoneskin,2,1,5,16,False,True,True,True,4
-storm-sphere,Storm Sphere,3,1,24,13,False,True,True,False,4
-summon-aberration,Summon Aberration,1,1,16,16,False,True,True,True,4
-summon-construct,Summon Construct,1,1,16,16,False,True,True,True,4
-summon-elemental,Summon Elemental,1,1,16,16,False,True,True,True,4
-summon-greater-demon,Summon Greater Demon,1,1,1,16,False,True,True,True,4
-synchronicity,Synchronicity (UA),6,1,5,16,False,True,True,False,4
-system-backdoor,System Backdoor (UA),5,3,2,16,False,True,True,True,4
-vitriolic-sphere,Vitriolic Sphere,3,1,24,1,False,True,True,True,4
-wall-of-fire,Wall of Fire,3,1,9,13,False,True,True,True,4
-watery-sphere,Watery Sphere,1,1,16,13,False,True,True,True,4
-widogast-s-vault-of-amber-hb,Widogast's Vault of Amber (HB),5,12,5,22,True,True,True,True,4
-widogast-s-web-of-fire-hb,Widogast's Web of Fire (HB),3,1,10,1,False,True,True,True,4
-animate-objects,Animate Objects,5,1,9,13,False,True,True,False,5
-antilife-shell,Antilife Shell,2,1,14,16,False,True,True,False,5
-awaken,Awaken,5,13,5,1,False,True,True,True,5
-banishing-smite,Banishing Smite,2,2,2,13,False,True,False,False,5
-bigbys-hand,Bigby's Hand,3,1,9,13,False,True,True,True,5
-circle-of-power,Circle of Power,2,1,18,18,False,True,False,False,5
-cloudkill,Cloudkill,1,1,9,18,False,True,True,False,5
+stoneskin,Stoneskin,2,1,5,14,False,True,True,True,4
+storm-sphere,Storm Sphere,3,1,21,4,False,True,True,False,4
+summon-aberration,Summon Aberration,1,1,13,14,False,True,True,True,4
+summon-construct,Summon Construct,1,1,13,14,False,True,True,True,4
+summon-elemental,Summon Elemental,1,1,13,14,False,True,True,True,4
+summon-greater-demon,Summon Greater Demon,1,1,1,14,False,True,True,True,4
+synchronicity,Synchronicity (UA),6,1,5,14,False,True,True,False,4
+system-backdoor,System Backdoor (UA),5,3,2,14,False,True,True,True,4
+vitriolic-sphere,Vitriolic Sphere,3,1,21,1,False,True,True,True,4
+wall-of-fire,Wall of Fire,3,1,4,4,False,True,True,True,4
+watery-sphere,Watery Sphere,1,1,13,4,False,True,True,True,4
+widogast-s-vault-of-amber-hb,Widogast's Vault of Amber (HB),5,3,5,19,True,True,True,True,4
+widogast-s-web-of-fire-hb,Widogast's Web of Fire (HB),3,1,1,1,False,True,True,True,4
+animate-objects,Animate Objects,5,1,4,4,False,True,True,False,5
+antilife-shell,Antilife Shell,2,1,11,14,False,True,True,False,5
+awaken,Awaken,5,10,5,1,False,True,True,True,5
+banishing-smite,Banishing Smite,2,2,2,4,False,True,False,False,5
+bigbys-hand,Bigby's Hand,3,1,4,4,False,True,True,True,5
+circle-of-power,Circle of Power,2,1,15,15,False,True,False,False,5
+cloudkill,Cloudkill,1,1,4,15,False,True,True,False,5
 commune,Commune,7,3,2,5,True,True,True,True,5
 commune-with-city,Commune with City (UA),7,3,2,1,True,True,True,False,5
 commune-with-nature,Commune with Nature,7,3,2,1,True,True,True,False,5
-cone-of-cold,Cone of Cold,3,1,26,1,False,True,True,True,5
-conjure-elemental,Conjure Elemental,1,1,16,16,False,True,True,True,5
-conjure-volley,Conjure Volley,1,1,24,1,False,True,True,True,5
-conjure-vrock,Conjure Vrock (UA),1,1,10,16,False,True,True,True,5
+cone-of-cold,Cone of Cold,3,1,23,1,False,True,True,True,5
+conjure-elemental,Conjure Elemental,1,1,13,14,False,True,True,True,5
+conjure-volley,Conjure Volley,1,1,21,1,False,True,True,True,5
+conjure-vrock,Conjure Vrock (UA),1,1,1,14,False,True,True,True,5
 contact-other-plane,Contact Other Plane,7,3,2,5,True,True,False,False,5
-contagion,Contagion,4,1,5,27,False,True,True,False,5
-control-winds,Control Winds,5,1,19,16,False,True,True,False,5
-creation,Creation,8,3,11,28,False,True,True,True,5
-danse-macabre,Danse Macabre,4,1,1,16,False,True,True,False,5
-dawn,Dawn,3,1,1,13,False,True,True,True,5
-destructive-wave,Destructive Wave,3,1,18,1,False,True,False,False,5
-dispel-evil-and-good,Dispel Evil and Good,2,1,2,13,False,True,True,True,5
-dominate-person,Dominate Person,6,1,10,13,False,True,True,False,5
-dream,Dream,8,3,32,6,False,True,True,True,5
-enervation,Enervation,4,1,1,13,False,True,True,False,5
-far-step,Far Step,1,2,2,13,False,True,False,False,5
-flame-strike,Flame Strike,3,1,10,1,False,True,True,True,5
-geas,Geas,6,3,10,29,False,True,False,False,5
+contagion,Contagion,4,1,5,22,False,True,True,False,5
+control-winds,Control Winds,5,1,16,14,False,True,True,False,5
+creation,Creation,8,3,6,23,False,True,True,True,5
+danse-macabre,Danse Macabre,4,1,1,14,False,True,True,False,5
+dawn,Dawn,3,1,1,4,False,True,True,True,5
+destructive-wave,Destructive Wave,3,1,15,1,False,True,False,False,5
+dispel-evil-and-good,Dispel Evil and Good,2,1,2,4,False,True,True,True,5
+dominate-person,Dominate Person,6,1,1,4,False,True,True,False,5
+dream,Dream,8,3,29,6,False,True,True,True,5
+enervation,Enervation,4,1,1,4,False,True,True,False,5
+far-step,Far Step,1,2,2,4,False,True,False,False,5
+flame-strike,Flame Strike,3,1,1,1,False,True,True,True,5
+geas,Geas,6,3,1,24,False,True,False,False,5
 greater-restoration,Greater Restoration,2,1,5,1,False,True,True,True,5
-hallow,Hallow,3,14,5,22,False,True,True,True,5
-hold-monster,Hold Monster,6,1,16,13,False,True,True,True,5
-holy-weapon,Holy Weapon,3,2,5,16,False,True,True,False,5
-immolation,Immolation,3,1,16,13,False,True,False,False,5
-infernal-calling,Infernal Calling,1,3,16,16,False,True,True,True,5
-insect-plague,Insect Plague,1,1,19,18,False,True,True,True,5
+hallow,Hallow,3,11,5,19,False,True,True,True,5
+hold-monster,Hold Monster,6,1,13,4,False,True,True,True,5
+holy-weapon,Holy Weapon,3,2,5,14,False,True,True,False,5
+immolation,Immolation,3,1,13,4,False,True,False,False,5
+infernal-calling,Infernal Calling,1,3,13,14,False,True,True,True,5
+insect-plague,Insect Plague,1,1,16,15,False,True,True,True,5
 legend-lore,Legend Lore,7,6,2,1,False,True,True,True,5
-maelstrom,Maelstrom,3,1,9,13,False,True,True,True,5
-mass-cure-wounds,Mass Cure Wounds,3,1,10,1,False,True,True,False,5
-mislead,Mislead,8,1,2,16,False,False,True,False,5
-modify-memory,Modify Memory,6,1,11,13,False,True,True,False,5
-negative-energy-flood,Negative Energy Flood,4,1,10,1,False,True,False,True,5
-passwall,Passwall,5,1,11,7,False,True,True,True,5
-planar-binding,Planar Binding,2,1,10,15,False,True,True,True,5
+maelstrom,Maelstrom,3,1,4,4,False,True,True,True,5
+mass-cure-wounds,Mass Cure Wounds,3,1,1,1,False,True,True,False,5
+mislead,Mislead,8,1,2,14,False,False,True,False,5
+modify-memory,Modify Memory,6,1,6,4,False,True,True,False,5
+negative-energy-flood,Negative Energy Flood,4,1,1,1,False,True,False,True,5
+passwall,Passwall,5,1,6,7,False,True,True,True,5
+planar-binding,Planar Binding,2,1,1,13,False,True,True,True,5
 raise-dead,Raise Dead,4,1,5,1,False,True,True,True,5
-rarys-telepathic-bond,Rary's Telepathic Bond,7,1,11,7,True,True,True,True,5
+rarys-telepathic-bond,Rary's Telepathic Bond,7,1,6,7,True,True,True,True,5
 reincarnate,Reincarnate,5,1,5,1,False,True,True,True,5
-scrying,Scrying,7,6,2,18,False,True,True,True,5
-seeming,Seeming,8,1,11,6,False,True,True,False,5
-shutdown,Shutdown (UA),5,1,9,13,False,True,True,False,5
-skill-empowerment,Skill Empowerment,5,1,5,16,False,True,True,False,5
-steel-wind-strike,Steel Wind Strike,1,1,11,1,False,False,True,True,5
-summon-celestial,Summon Celestial,1,1,16,16,False,True,True,True,5
-summon-draconic-spirit,Summon Draconic Spirit,5,2,2,13,False,True,True,False,5
-summon-draconic-spirit-ua,Summon Draconic Spirit (UA),1,1,10,16,False,True,True,True,5
-swift-quiver,Swift Quiver,5,2,5,13,False,True,True,True,5
-synaptic-static,Synaptic Static,6,1,9,1,False,True,True,False,5
-telekinesis,Telekinesis,5,1,10,18,False,True,True,False,5
-teleportation-circle,Teleportation Circle,1,1,12,2,False,True,False,True,5
-temporal-shunt,Temporal Shunt,5,4,9,2,False,True,True,False,5
-transmute-rock,Transmute Rock,5,1,9,1,False,True,True,True,5
-tree-stride,Tree Stride,1,1,2,13,False,True,True,False,5
-wall-of-force,Wall of Force,3,1,9,18,False,True,True,True,5
-wall-of-light,Wall Of Light,3,1,9,18,False,True,True,True,5
-wall-of-stone,Wall of Stone,3,1,9,18,False,True,True,True,5
-wrath-of-nature,Wrath Of Nature,3,1,9,13,False,True,True,False,5
-arcane-gate,Arcane Gate,1,1,30,18,False,True,True,False,6
-blade-barrier,Blade Barrier,3,1,16,18,False,True,True,False,6
-bones-of-the-earth,Bones of the Earth,5,1,9,1,False,True,True,False,6
-chain-lightning,Chain Lightning,3,1,24,1,False,True,True,True,6
-circle-of-death,Circle of Death,4,1,24,1,False,True,True,True,6
-conjure-fey,Conjure Fey,1,1,16,16,False,True,True,False,6
-contingency,Contingency,3,6,2,20,False,True,True,True,6
-create-homunculus,Create Homunculus,5,5,9,1,False,True,True,True,6
-create-undead,Create Undead,4,3,12,1,False,True,True,True,6
-disintegrate,Disintegrate,5,1,10,1,False,True,True,True,6
-drawmijs-instant-summons,Drawmij's Instant Summons,1,3,5,22,True,True,True,True,6
-druid-grove,Druid Grove,2,6,5,15,False,True,True,True,6
-eyebite,Eyebite,4,1,2,13,False,True,True,False,6
-find-the-path,Find the Path,7,3,2,23,False,True,True,True,6
-fizbans-platinum-shield,Fizban's Platinum Shield,2,2,21,13,False,True,True,True,6
-fizban-s-platinum-shield-ua,Fizban's Platinum Shield (UA),2,1,1,13,False,True,True,True,6
-flesh-to-stone,Flesh to Stone,5,1,10,13,False,True,True,True,6
-forbiddance,Forbiddance,2,6,5,30,True,True,True,True,6
-globe-of-invulnerability,Globe of Invulnerability,2,1,14,13,False,True,True,True,6
-gravity-fissure,Gravity Fissure,3,1,28,1,False,True,True,True,6
-guards-and-wards,Guards and Wards,2,6,5,15,False,True,True,True,6
-harm,Harm,4,1,10,1,False,True,True,False,6
-heal,Heal,3,1,10,1,False,True,True,False,6
-heroes-feast,Heroes' Feast,1,6,11,1,False,True,True,True,6
-investiture-of-flame,Investiture of Flame,5,1,2,18,False,True,True,False,6
-investiture-of-ice,Investiture of Ice,5,1,2,18,False,True,True,False,6
-investiture-of-stone,Investiture of Stone,5,1,2,18,False,True,True,False,6
-investiture-of-wind,Investiture of Wind,5,1,2,18,False,True,True,False,6
-magic-jar,Magic Jar,4,3,2,22,False,True,True,True,6
-mass-suggestion,Mass Suggestion,6,1,10,15,False,True,False,True,6
-mental-prison,Mental Prison,8,1,10,13,False,False,True,False,6
-move-earth,Move Earth,5,1,9,31,False,True,True,True,6
-otherworldly-form,Otherworldly Form (UA),5,1,2,13,False,True,True,True,6
-otilukes-freezing-sphere,Otiluke's Freezing Sphere,3,1,19,1,False,True,True,True,6
-ottos-irresistible-dance,Otto's Irresistible Dance,6,1,11,13,False,True,False,False,6
-planar-ally,Planar Ally,1,1,10,1,False,True,True,False,6
-primordial-ward,Primordial Ward,2,1,2,13,False,True,True,False,6
-programmed-illusion,Programmed Illusion,8,1,9,22,False,True,True,True,6
-psychic-crush,Psychic Crush (UA),6,1,10,5,False,True,True,False,6
-scatter,Scatter,1,1,11,1,False,True,False,False,6
-soul-cage,Soul Cage,4,15,10,6,False,True,True,True,6
-summon-fiend,Summon Fiend,1,1,16,16,False,True,True,True,6
-sunbeam,Sunbeam,3,1,20,13,False,True,True,True,6
-tashas-otherworldly-guise,Tasha's Otherworldly Guise,5,2,2,13,False,True,True,True,6
-tensers-transformation,Tenser's Transformation,5,1,2,18,False,True,True,True,6
-transport-via-plants,Transport via Plants,1,1,12,2,False,True,True,False,6
+scrying,Scrying,7,6,2,15,False,True,True,True,5
+seeming,Seeming,8,1,6,6,False,True,True,False,5
+shutdown,Shutdown (UA),5,1,4,4,False,True,True,False,5
+skill-empowerment,Skill Empowerment,5,1,5,14,False,True,True,False,5
+steel-wind-strike,Steel Wind Strike,1,1,6,1,False,False,True,True,5
+summon-celestial,Summon Celestial,1,1,13,14,False,True,True,True,5
+summon-draconic-spirit,Summon Draconic Spirit,5,2,2,4,False,True,True,False,5
+summon-draconic-spirit-ua,Summon Draconic Spirit (UA),1,1,1,14,False,True,True,True,5
+swift-quiver,Swift Quiver,5,2,5,4,False,True,True,True,5
+synaptic-static,Synaptic Static,6,1,4,1,False,True,True,False,5
+telekinesis,Telekinesis,5,1,1,15,False,True,True,False,5
+teleportation-circle,Teleportation Circle,1,1,9,2,False,True,False,True,5
+temporal-shunt,Temporal Shunt,5,4,4,2,False,True,True,False,5
+transmute-rock,Transmute Rock,5,1,4,1,False,True,True,True,5
+tree-stride,Tree Stride,1,1,2,4,False,True,True,False,5
+wall-of-force,Wall of Force,3,1,4,15,False,True,True,True,5
+wall-of-light,Wall Of Light,3,1,4,15,False,True,True,True,5
+wall-of-stone,Wall of Stone,3,1,4,15,False,True,True,True,5
+wrath-of-nature,Wrath Of Nature,3,1,4,4,False,True,True,False,5
+arcane-gate,Arcane Gate,1,1,27,15,False,True,True,False,6
+blade-barrier,Blade Barrier,3,1,13,15,False,True,True,False,6
+bones-of-the-earth,Bones of the Earth,5,1,4,1,False,True,True,False,6
+chain-lightning,Chain Lightning,3,1,21,1,False,True,True,True,6
+circle-of-death,Circle of Death,4,1,21,1,False,True,True,True,6
+conjure-fey,Conjure Fey,1,1,13,14,False,True,True,False,6
+contingency,Contingency,3,6,2,17,False,True,True,True,6
+create-homunculus,Create Homunculus,5,5,4,1,False,True,True,True,6
+create-undead,Create Undead,4,3,9,1,False,True,True,True,6
+disintegrate,Disintegrate,5,1,1,1,False,True,True,True,6
+drawmijs-instant-summons,Drawmij's Instant Summons,1,3,5,19,True,True,True,True,6
+druid-grove,Druid Grove,2,6,5,13,False,True,True,True,6
+eyebite,Eyebite,4,1,2,4,False,True,True,False,6
+find-the-path,Find the Path,7,3,2,20,False,True,True,True,6
+fizbans-platinum-shield,Fizban's Platinum Shield,2,2,18,4,False,True,True,True,6
+fizban-s-platinum-shield-ua,Fizban's Platinum Shield (UA),2,1,1,4,False,True,True,True,6
+flesh-to-stone,Flesh to Stone,5,1,1,4,False,True,True,True,6
+forbiddance,Forbiddance,2,6,5,25,True,True,True,True,6
+globe-of-invulnerability,Globe of Invulnerability,2,1,11,4,False,True,True,True,6
+gravity-fissure,Gravity Fissure,3,1,25,1,False,True,True,True,6
+guards-and-wards,Guards and Wards,2,6,5,13,False,True,True,True,6
+harm,Harm,4,1,1,1,False,True,True,False,6
+heal,Heal,3,1,1,1,False,True,True,False,6
+heroes-feast,Heroes' Feast,1,6,6,1,False,True,True,True,6
+investiture-of-flame,Investiture of Flame,5,1,2,15,False,True,True,False,6
+investiture-of-ice,Investiture of Ice,5,1,2,15,False,True,True,False,6
+investiture-of-stone,Investiture of Stone,5,1,2,15,False,True,True,False,6
+investiture-of-wind,Investiture of Wind,5,1,2,15,False,True,True,False,6
+magic-jar,Magic Jar,4,3,2,19,False,True,True,True,6
+mass-suggestion,Mass Suggestion,6,1,1,13,False,True,False,True,6
+mental-prison,Mental Prison,8,1,1,4,False,False,True,False,6
+move-earth,Move Earth,5,1,4,26,False,True,True,True,6
+otherworldly-form,Otherworldly Form (UA),5,1,2,4,False,True,True,True,6
+otilukes-freezing-sphere,Otiluke's Freezing Sphere,3,1,16,1,False,True,True,True,6
+ottos-irresistible-dance,Otto's Irresistible Dance,6,1,6,4,False,True,False,False,6
+planar-ally,Planar Ally,1,1,1,1,False,True,True,False,6
+primordial-ward,Primordial Ward,2,1,2,4,False,True,True,False,6
+programmed-illusion,Programmed Illusion,8,1,4,19,False,True,True,True,6
+psychic-crush,Psychic Crush (UA),6,1,1,5,False,True,True,False,6
+scatter,Scatter,1,1,6,1,False,True,False,False,6
+soul-cage,Soul Cage,4,12,1,6,False,True,True,True,6
+summon-fiend,Summon Fiend,1,1,13,14,False,True,True,True,6
+sunbeam,Sunbeam,3,1,17,4,False,True,True,True,6
+tashas-otherworldly-guise,Tasha's Otherworldly Guise,5,2,2,4,False,True,True,True,6
+tensers-transformation,Tenser's Transformation,5,1,2,15,False,True,True,True,6
+transport-via-plants,Transport via Plants,1,1,9,2,False,True,True,False,6
 true-seeing,True Seeing,7,1,5,7,False,True,True,True,6
-wall-of-ice,Wall of Ice,3,1,9,18,False,True,True,True,6
-wall-of-thorns,Wall of Thorns,1,1,9,18,False,True,True,True,6
-widogast-s-transmogrification-hb,Widogast's Transmogrification (HB),5,10,5,1,False,True,True,True,6
-wind-walk,Wind Walk,5,3,11,6,False,True,True,True,6
+wall-of-ice,Wall of Ice,3,1,4,15,False,True,True,True,6
+wall-of-thorns,Wall of Thorns,1,1,4,15,False,True,True,True,6
+widogast-s-transmogrification-hb,Widogast's Transmogrification (HB),5,5,5,1,False,True,True,True,6
+wind-walk,Wind Walk,5,3,6,6,False,True,True,True,6
 word-of-recall,Word of Recall,1,1,7,1,False,True,False,False,6
-conjure-celestial,Conjure Celestial,1,3,16,16,False,True,True,False,7
-conjure-hezrou,Conjure Hezrou (UA),1,1,10,16,False,True,True,True,7
+conjure-celestial,Conjure Celestial,1,3,13,14,False,True,True,False,7
+conjure-hezrou,Conjure Hezrou (UA),1,1,1,14,False,True,True,True,7
 create-magen,Create Magen,5,5,5,1,False,True,True,True,7
 crown-of-stars,Crown Of Stars,1,1,2,7,False,True,True,False,7
-delayed-blast-fireball,Delayed Blast Fireball,3,1,24,13,False,True,True,True,7
-divine-word,Divine Word,3,2,11,1,False,True,False,False,7
-draconic-transformation,Draconic Transformation,5,2,2,13,False,True,True,True,7
-draconic-transformation-ua,Draconic Transformation (UA),5,2,2,13,False,True,True,True,7
-dream-of-the-blue-veil,Dream of the Blue Veil,1,16,33,32,False,True,True,True,7
-etherealness,Etherealness,5,1,2,33,False,True,True,False,7
-finger-of-death,Finger of Death,4,1,10,1,False,True,True,False,7
-fire-storm,Fire Storm,3,1,24,1,False,True,True,False,7
-forcecage,Forcecage,3,1,34,7,False,True,True,True,7
-mirage-arcane,Mirage Arcane,8,6,23,20,False,True,True,False,7
-mordenkainens-magnificent-mansion,Mordenkainen's Magnificent Mansion,1,3,19,15,False,True,True,True,7
-mordenkainens-sword,Mordenkainen's Sword,3,1,10,13,False,True,True,True,7
+delayed-blast-fireball,Delayed Blast Fireball,3,1,21,4,False,True,True,True,7
+divine-word,Divine Word,3,2,6,1,False,True,False,False,7
+draconic-transformation,Draconic Transformation,5,2,2,4,False,True,True,True,7
+draconic-transformation-ua,Draconic Transformation (UA),5,2,2,4,False,True,True,True,7
+dream-of-the-blue-veil,Dream of the Blue Veil,1,6,30,27,False,True,True,True,7
+etherealness,Etherealness,5,1,2,28,False,True,True,False,7
+finger-of-death,Finger of Death,4,1,1,1,False,True,True,False,7
+fire-storm,Fire Storm,3,1,21,1,False,True,True,False,7
+forcecage,Forcecage,3,1,31,7,False,True,True,True,7
+mirage-arcane,Mirage Arcane,8,6,20,17,False,True,True,False,7
+mordenkainens-magnificent-mansion,Mordenkainen's Magnificent Mansion,1,3,16,13,False,True,True,True,7
+mordenkainens-sword,Mordenkainen's Sword,3,1,1,4,False,True,True,True,7
 plane-shift,Plane Shift,1,1,5,1,False,True,True,True,7
-power-word-pain,Power Word: Pain,6,1,10,1,False,True,False,False,7
-prismatic-spray,Prismatic Spray,3,1,26,1,False,True,True,False,7
-project-image,Project Image,8,1,35,23,False,True,True,True,7
+power-word-pain,Power Word: Pain,6,1,1,1,False,True,False,False,7
+prismatic-spray,Prismatic Spray,3,1,23,1,False,True,True,False,7
+project-image,Project Image,8,1,32,20,False,True,True,True,7
 regenerate,Regenerate,5,3,5,7,False,True,True,True,7
 resurrection,Resurrection,4,5,5,1,False,True,True,True,7
-reverse-gravity,Reverse Gravity,5,1,34,13,False,True,True,True,7
-sequester,Sequester,5,1,5,22,False,True,True,True,7
-simulacrum,Simulacrum,8,17,5,22,False,True,True,True,7
-symbol,Symbol,2,3,5,21,False,True,True,True,7
-teleport,Teleport,1,1,12,1,False,True,False,False,7
-temple-of-the-gods,Temple of the Gods,1,10,9,15,False,True,True,True,7
-tether-essence,Tether Essence,4,1,10,16,False,True,True,True,7
-whirlwind,Whirlwind,3,1,19,13,False,True,False,True,7
-abi-dalzims-horrid-wilting,Abi-Dalzim's Horrid Wilting,4,1,24,1,False,True,True,True,8
-animal-shapes,Animal Shapes,5,1,11,34,False,True,True,False,8
-antimagic-field,Antimagic Field,2,1,36,16,False,True,True,True,8
-antipathy-sympathy,Antipathy/Sympathy,6,5,10,35,False,True,True,True,8
+reverse-gravity,Reverse Gravity,5,1,31,4,False,True,True,True,7
+sequester,Sequester,5,1,5,19,False,True,True,True,7
+simulacrum,Simulacrum,8,13,5,19,False,True,True,True,7
+symbol,Symbol,2,3,5,18,False,True,True,True,7
+teleport,Teleport,1,1,9,1,False,True,False,False,7
+temple-of-the-gods,Temple of the Gods,1,5,4,13,False,True,True,True,7
+tether-essence,Tether Essence,4,1,1,14,False,True,True,True,7
+whirlwind,Whirlwind,3,1,16,4,False,True,False,True,7
+abi-dalzims-horrid-wilting,Abi-Dalzim's Horrid Wilting,4,1,21,1,False,True,True,True,8
+animal-shapes,Animal Shapes,5,1,6,29,False,True,True,False,8
+antimagic-field,Antimagic Field,2,1,33,14,False,True,True,True,8
+antipathy-sympathy,Antipathy/Sympathy,6,5,1,17,False,True,True,True,8
 clone,Clone,4,5,5,1,False,True,True,True,8
-control-weather,Control Weather,5,6,37,36,False,True,True,True,8
-dark-star,Dark Star,3,1,38,13,False,True,True,True,8
-demiplane,Demiplane,1,1,10,17,False,False,True,False,8
-dominate-monster,Dominate Monster,6,1,10,16,False,True,True,False,8
-earthquake,Earthquake,3,1,30,13,False,True,True,True,8
-feeblemind,Feeblemind,6,1,24,1,False,True,True,True,8
+control-weather,Control Weather,5,6,34,16,False,True,True,True,8
+dark-star,Dark Star,3,1,21,4,False,True,True,True,8
+demiplane,Demiplane,1,1,1,7,False,False,True,False,8
+dominate-monster,Dominate Monster,6,1,1,14,False,True,True,False,8
+earthquake,Earthquake,3,1,27,4,False,True,True,True,8
+feeblemind,Feeblemind,6,1,21,1,False,True,True,True,8
 glibness,Glibness,5,1,2,7,False,True,False,False,8
-holy-aura,Holy Aura,2,1,2,13,False,True,True,True,8
-illusory-dragon,Illusory Dragon,8,1,9,13,False,False,True,False,8
-incendiary-cloud,Incendiary Cloud,1,1,24,13,False,True,True,False,8
-maddening-darkness,Maddening Darkness,3,1,24,18,False,True,False,True,8
-maze,Maze,1,1,10,18,False,True,True,False,8
-mighty-fortress,Mighty Fortress,1,3,25,1,False,True,True,True,8
-mind-blank,Mind Blank,2,1,5,15,False,True,True,False,8
-power-word-stun,Power Word: Stun,6,1,10,1,False,True,True,False,8
-reality-break,Reality Break,1,1,10,13,False,True,True,True,8
-sunburst,Sunburst,3,1,24,1,False,True,True,True,8
-telepathy,Telepathy,3,1,29,15,False,True,True,True,8
-tsunami,Tsunami,1,1,23,37,False,True,True,False,8
-astral-projection,Astral Projection,3,5,12,28,False,True,True,True,9
-blade-of-disaster,Blade of Disaster,1,2,10,4,False,True,True,False,9
+holy-aura,Holy Aura,2,1,2,4,False,True,True,True,8
+illusory-dragon,Illusory Dragon,8,1,4,4,False,False,True,False,8
+incendiary-cloud,Incendiary Cloud,1,1,21,4,False,True,True,False,8
+maddening-darkness,Maddening Darkness,3,1,21,15,False,True,False,True,8
+maze,Maze,1,1,1,15,False,True,True,False,8
+mighty-fortress,Mighty Fortress,1,3,22,1,False,True,True,True,8
+mind-blank,Mind Blank,2,1,5,13,False,True,True,False,8
+power-word-stun,Power Word: Stun,6,1,1,1,False,True,True,False,8
+reality-break,Reality Break,1,1,1,4,False,True,True,True,8
+sunburst,Sunburst,3,1,21,1,False,True,True,True,8
+telepathy,Telepathy,3,1,26,13,False,True,True,True,8
+tsunami,Tsunami,1,1,20,30,False,True,True,False,8
+astral-projection,Astral Projection,3,5,9,23,False,True,True,True,9
+blade-of-disaster,Blade of Disaster,1,2,1,4,False,True,True,False,9
 foresight,Foresight,7,3,5,6,False,True,True,True,9
-gate,Gate,1,1,10,4,False,True,True,True,9
-imprisonment,Imprisonment,2,3,11,22,False,True,True,True,9
-invulnerability,Invulnerability,2,1,2,38,False,True,True,True,9
-mass-heal,Mass Heal,3,1,10,1,False,True,True,False,9
-mass-polymorph,Mass Polymorph,5,1,9,39,False,True,True,True,9
-meteor-swarm,Meteor Swarm,3,1,25,1,False,True,True,False,9
+gate,Gate,1,1,1,4,False,True,True,True,9
+imprisonment,Imprisonment,2,3,6,19,False,True,True,True,9
+invulnerability,Invulnerability,2,1,2,15,False,True,True,True,9
+mass-heal,Mass Heal,3,1,1,1,False,True,True,False,9
+mass-polymorph,Mass Polymorph,5,1,4,14,False,True,True,True,9
+meteor-swarm,Meteor Swarm,3,1,22,1,False,True,True,False,9
 power-word-heal,Power Word: Heal,3,1,5,1,False,True,True,False,9
-power-word-kill,Power Word: Kill,6,1,10,1,False,True,False,False,9
-prismatic-wall,Prismatic Wall,2,1,10,10,False,True,True,False,9
-psychic-scream,Psychic Scream,6,1,16,1,False,False,True,False,9
-ravenous-void,Ravenous Void,3,1,39,13,False,True,True,True,9
-shapechange,Shapechange,5,1,2,39,False,True,True,True,9
-storm-of-vengeance,Storm of Vengeance,1,1,23,4,False,True,True,False,9
-time-ravage,Time Ravage,4,1,16,1,False,True,True,True,9
+power-word-kill,Power Word: Kill,6,1,1,1,False,True,False,False,9
+prismatic-wall,Prismatic Wall,2,1,1,10,False,True,True,False,9
+psychic-scream,Psychic Scream,6,1,13,1,False,False,True,False,9
+ravenous-void,Ravenous Void,3,1,35,4,False,True,True,True,9
+shapechange,Shapechange,5,1,2,14,False,True,True,True,9
+storm-of-vengeance,Storm of Vengeance,1,1,20,4,False,True,True,False,9
+time-ravage,Time Ravage,4,1,13,1,False,True,True,True,9
 time-stop,Time Stop,5,1,2,1,False,True,False,False,9
-true-polymorph,True Polymorph,5,1,11,39,False,True,True,True,9
+true-polymorph,True Polymorph,5,1,6,14,False,True,True,True,9
 true-resurrection,True Resurrection,4,5,5,1,False,True,True,True,9
-weird,Weird,8,1,9,4,False,True,True,False,9
+weird,Weird,8,1,4,4,False,True,True,False,9
 wish,Wish,1,1,2,1,False,True,False,False,9

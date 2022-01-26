@@ -1,11 +1,11 @@
 {
     "vsebina": "sola",
-    "Conjuration": 1,
-    "Abjuration": 2,
-    "Evocation": 3,
-    "Necromancy": 4,
-    "Transmutation": 5,
-    "Enchantment": 6,
-    "Divination": 7,
-    "Illusion": 8
+    "conjuration": 1,
+    "abjuration": 2,
+    "evocation": 3,
+    "necromancy": 4,
+    "transmutation": 5,
+    "enchantment": 6,
+    "divination": 7,
+    "illusion": 8
 }

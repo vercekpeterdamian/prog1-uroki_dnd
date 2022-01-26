@@ -11,6 +11,18 @@ efekt_sl = {'vsebina': 'efekt'}
 
 SLOVARJI = [sola_sl, urocanje_sl, doseg_sl, efekt_sl]
 
+def ocisti_niz(string):
+    '''V nizu zbriše znaka '"' in ',' saj tedva ne nosita velike pomenske vloge. 
+    Poleg tega zbriše tudi 's' na koncu, ker je ta v dobljenih podatkih nedosledno uporabljen.'''
+    ociscen = string.lower()
+    while '"' in ociscen:
+        ociscen = ociscen.replace('"', '')
+    while ',' in ociscen:
+        ociscen = ociscen.replace(',', '')
+    if ociscen[-1] == 's':
+        return ociscen[:-1]
+    else:
+        return ociscen
 
 skupek_urokov_po_stopnji = re.compile(
     r'<div id="wiki-tab-0-(?P<stopnja>\d)".*?><div class="list-pages-box">(?P<vsebina>.*?)'
@@ -55,6 +67,7 @@ def prebavi_urok(blok, stopnja):
     doseg_t = (urok['doseg'], doseg_sl)
     efekt_t = (urok['efekt'], efekt_sl)
     for nekaj, slovar in [sola_t, urocanje_t, doseg_t, efekt_t]:
+        nekaj = ocisti_niz(nekaj)
         if nekaj not in slovar.keys():
             slovar[nekaj] = len(slovar)
         urok[slovar['vsebina']] = slovar[nekaj]

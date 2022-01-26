@@ -1,18 +1,14 @@
 ime,id
-1 Action,1
-1 Bonus Action,2
-1 Minute,3
-1 Reaction,4
-1 Hour,5
-10 Minutes,6
-Reaction,7
-1 action,8
-Self,9
-1 hour,10
-1 Action or 8 Hours,11
-1 minute,12
-8 Hours,13
-24 Hours,14
-Special,15
-10 minutes,16
-12 hours,17
+1 action,1
+1 bonus action,2
+1 minute,3
+1 reaction,4
+1 hour,5
+10 minute,6
+reaction,7
+self,8
+1 action or 8 hour,9
+8 hour,10
+24 hour,11
+special,12
+12 hour,13
