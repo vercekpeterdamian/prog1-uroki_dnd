@@ -61,7 +61,6 @@ def vrni_uroke(stopnja, vsi_na_kupu):
 def prebavi_urok(blok, stopnja):
     urok = vzorec_uroka.search(blok).groupdict()
     urok['ritual'] = len(urok['urocanje'].split(' <em><sup>')) >= 2 and 'R' in urok['urocanje'].split()[-1]
-    # določimo kodo šole čaranje
     sola_t = (urok['sola'].split()[0], sola_sl)
     urocanje_t = (urok['urocanje'].split(' <em><sup>')[0], urocanje_sl)
     doseg_t = (urok['doseg'], doseg_sl)
